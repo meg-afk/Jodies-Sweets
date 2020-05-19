@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360.628" height="217.198" viewBox="0 0 360.628 217.198">
+  <g id="Group_18" data-name="Group 18" transform="matrix(1, 0.017, -0.017, 1, -129.578, -84.592)">
+    <g id="Logo" transform="translate(102.635 77.813)">
+      <g id="Group_20" data-name="Group 20" transform="translate(15.137 7.737)">
+        <g id="Logo-2" data-name="Logo" transform="translate(16.945 -3.296)">
+          <g id="Ellipse_1" data-name="Ellipse 1" fill="#fff" stroke="#000" stroke-width="4" stroke-dasharray="11">
+            <ellipse cx="178.5" cy="105.5" rx="178.5" ry="105.5" stroke="none"/>
+            <ellipse cx="178.5" cy="105.5" rx="176.5" ry="103.5" fill="none"/>
+          </g>
+          <text id="Sweets" transform="translate(96.605 139.435)" fill="#36bce6" font-size="50" font-family="RitzFLF"><tspan x="0" y="0">Sweets</tspan></text>
+          <text id="Jodie_s" data-name="Jodie&apos;s" transform="matrix(0.999, 0.052, -0.052, 0.999, 54.385, 85.737)" fill="red" font-size="55" font-family="AdobeHandwriting-Ernie, Adobe Handwriting Ernie"><tspan x="0" y="0">Jodie&apos;s</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
